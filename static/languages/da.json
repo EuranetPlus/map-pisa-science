@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvor godt klarer europæiske studerende sig i naturvidenskab?",
+  "subtitle": "Estland fører EU med 527 point i PISA 2025. På tværs af de 27 EU-lande er den uvægtede gennemsnitsscore omkring 476 point, sammenlignet med et OECD-gennemsnit på 482.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "PISA måler, hvor godt 15-årige elever kan anvende deres viden og færdigheder på virkelige udfordringer. Inden for naturvidenskab lå OECD-gennemsnittet på 482 point i 2025, tre point lavere end i 2022 og syv point under niveauet i 2015. Estland opnåede den højeste score blandt EU-landene med 527 point, mens Cypern havde den laveste med 411. EU-tallet på 476 point er et uvægtet gennemsnit beregnet ud fra gennemsnitsscorerne for de 27 EU-medlemsstater og er ikke et officielt OECD EU-gennemsnit.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "extraInfo_NL": "Advarsel: En eller flere PISA-stikprøvestandarder blev ikke opfyldt; fortolk estimatet med forsigtighed.",
+  "legend1": "Ingen data tilgængelige",
   "tooltipExtraInfoLabel": "Klik her"
 }
