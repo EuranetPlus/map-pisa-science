@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quel est le niveau de performance des élèves européens en sciences ?",
+  "subtitle": "L'Estonie est en tête de l'UE avec 527 points au PISA 2025. Dans les 27 pays de l'UE, le score moyen non pondéré est d'environ 476 points, contre une moyenne de 482 pour l'OCDE.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Le programme PISA évalue la capacité des élèves de 15 ans à appliquer leurs connaissances et leurs compétences à des situations concrètes. En sciences, la moyenne de l'OCDE s'établissait à 482 points en 2025, soit trois points de moins qu'en 2022 et sept points de moins qu'en 2015. L'Estonie a enregistré le meilleur score parmi les pays de l'UE avec 527 points, tandis que Chypre a obtenu le plus faible avec 411 points. Le score de l'UE, qui est de 476 points, est une moyenne non pondérée calculée à partir des scores moyens des 27 États membres et ne constitue pas une moyenne officielle de l'OCDE pour l'UE.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
+  "extraInfo_NL": "Attention : une ou plusieurs normes d’échantillonnage PISA n’ont pas été respectées ; interprétez l’estimation avec prudence.",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
