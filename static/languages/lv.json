@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik labi Eiropas skolēni gūst panākumus dabaszinībās?",
+  "subtitle": "Igaunija PISA 2025. gada apsekojumā ar 527 punktiem ir ES līdere. Visās 27 ES valstīs nesvērtais vidējais rādītājs ir aptuveni 476 punkti, salīdzinot ar ESAO vidējo rādītāju 482.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "PISA mēra, cik labi 15 gadus veci skolēni var pielietot savas zināšanas un prasmes reālās dzīves izaicinājumos. Dabaszinātnēs OECD vidējais rādītājs 2025. gadā bija 482 punkti, kas ir par trim punktiem zemāk nekā 2022. gadā un par septiņiem punktiem zemāk nekā 2015. gada līmenī. Igaunijā bija augstākais rezultāts starp ES valstīm ar 527 punktiem, savukārt Kiprā bija zemākais – 411 punkti. ES rādītājs 476 punkti ir nesvērts vidējais rādītājs, kas aprēķināts no 27 ES dalībvalstu vidējiem rezultātiem, un tas nav oficiāls OECD ES vidējais rādītājs.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "ESAO (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "extraInfo_NL": "Uzmanību: viens vai vairāki PISA izlases standarti netika izpildīti; interpretējiet aplēsi uzmanīgi.",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
