@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Qué resultados obtienen los estudiantes europeos en ciencias?",
+  "subtitle": "Estonia lidera la UE con 527 puntos en PISA 2025. En los 27 países de la UE, la puntuación media sin ponderar ronda los 476 puntos, frente a una media de la OCDE de 482.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "PISA evalúa la capacidad de los estudiantes de 15 años para aplicar sus conocimientos y habilidades a desafíos de la vida real. En ciencias, el promedio de la OCDE se situó en 482 puntos en 2025, tres puntos menos que en 2022 y siete puntos por debajo de su nivel de 2015. Estonia obtuvo la puntuación más alta entre los países de la UE con 527 puntos, mientras que Chipre obtuvo la más baja con 411. La cifra de la UE de 476 puntos es un promedio no ponderado calculado a partir de las puntuaciones medias de los 27 Estados miembros de la UE y no es un promedio oficial de la OCDE para la UE.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
+  "extraInfo_NL": "Precaución: no se cumplió con uno o más estándares de muestreo de PISA; interprete la estimación con precaución.",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
