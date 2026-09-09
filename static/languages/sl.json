@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kako dobri so evropski učenci v naravoslovju?",
+  "subtitle": "Estonija je v raziskavi PISA 2025 s 527 točkami vodilna v EU. V 27 državah EU je netehtano povprečje približno 476 točk v primerjavi s povprečjem OECD, ki znaša 482.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "PISA meri, kako dobro lahko 15-letni učenci uporabijo svoje znanje in spretnosti pri soočanju z resničnimi življenjskimi izzivi. V naravoslovju je povprečje OECD leta 2025 znašalo 482 točk, kar je tri točke manj kot leta 2022 in sedem točk manj kot leta 2015. Estonija je med državami EU dosegla najvišji rezultat s 527 točkami, Ciper pa najnižji s 411. Številka EU, ki znaša 476 točk, je netehtano povprečje, izračunano iz povprečnih rezultatov 27 držav članic EU, in ni uradno povprečje OECD EU.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "extraInfo_NL": "Pozor: eden ali več vzorčnih standardov PISA ni bilo izpolnjenih; oceno interpretirajte previdno.",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
