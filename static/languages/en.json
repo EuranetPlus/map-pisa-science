@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How well do European students perform in science?",
+  "subtitle": "Estonia leads the EU with 527 points in PISA 2025. Across the 27 EU countries, the unweighted average score is around 476 points, compared with an OECD average of 482.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "PISA measures how well 15-year-old students can apply their knowledge and skills to real-life challenges. In science, the OECD average stood at 482 points in 2025, three points lower than in 2022 and seven points below its 2015 level. Estonia recorded the highest score among EU countries with 527 points, while Cyprus had the lowest at 411. The EU figure of 476 points is an unweighted average calculated from the mean scores of the 27 EU Member States and is not an official OECD EU average.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
+  "extraInfo_NL": "Caution: one or more PISA sampling standards were not met; interpret the estimate with care.",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }
