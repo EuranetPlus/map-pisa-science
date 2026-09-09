@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mennyire teljesítenek jól az európai diákok a természettudományokban?",
+  "subtitle": "Észtország 527 ponttal vezeti az EU-t a 2025-ös PISA-felmérésben. Az EU 27 országát tekintve a súlyozatlan átlagpontszám körülbelül 476 pont, szemben az OECD 482-es átlagával.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A PISA azt méri, hogy a 15 éves diákok mennyire tudják tudásukat és készségeiket a valós élet kihívásaira alkalmazni. A természettudományokban az OECD átlaga 482 pont volt 2025-ben, ami három ponttal alacsonyabb, mint 2022-ben, és hét ponttal a 2015-ös szint alatt. Észtország érte el a legmagasabb pontszámot az uniós országok közül 527 ponttal, míg Ciprus a legalacsonyabbat 411 ponttal. A 476 pontos EU-s adat a 27 uniós tagállam átlagpontszámaiból számított súlyozatlan átlag, és nem hivatalos OECD EU-átlag.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "extraInfo_NL": "Figyelem: egy vagy több PISA mintavételi szabvány nem teljesült; a becslést körültekintően kell értelmezni.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
