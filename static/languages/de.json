@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie gut schneiden europäische Schüler in den Naturwissenschaften ab?",
+  "subtitle": "Estland führt die EU mit 527 Punkten im PISA 2025 an. In den 27 EU-Ländern liegt der ungewichtete Durchschnittswert bei rund 476 Punkten, verglichen mit einem OECD-Durchschnitt von 482 Punkten.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "PISA misst, wie gut 15-jährige Schülerinnen und Schüler ihr Wissen und ihre Fähigkeiten auf reale Herausforderungen anwenden können. Im Bereich Naturwissenschaften lag der OECD-Durchschnitt 2025 bei 482 Punkten, drei Punkte niedriger als 2022 und sieben Punkte unter dem Niveau von 2015. Estland erzielte mit 527 Punkten die höchste Punktzahl aller EU-Länder, Zypern mit 411 Punkten die niedrigste. Der EU-Durchschnitt von 476 Punkten ist ein ungewichteter Wert, der aus den Mittelwerten der 27 EU-Mitgliedstaaten berechnet wurde und kein offizieller OECD-EU-Durchschnitt ist.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "extraInfo_NL": "Achtung: Mindestens ein PISA-Stichprobenstandard wurde nicht erfüllt; interpretieren Sie die Schätzung daher mit Vorsicht.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
