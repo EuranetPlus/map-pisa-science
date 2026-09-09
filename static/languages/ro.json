@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de bine au performanțele elevilor europeni la științe?",
+  "subtitle": "Estonia este lider în UE cu 527 de puncte în PISA 2025. În cele 27 de țări ale UE, scorul mediu neponderat este de aproximativ 476 de puncte, comparativ cu o medie OCDE de 482.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "PISA măsoară cât de bine își pot aplica elevii de 15 ani cunoștințele și abilitățile la provocări din viața reală. La științe, media OCDE a fost de 482 de puncte în 2025, cu trei puncte mai mică decât în 2022 și cu șapte puncte sub nivelul din 2015. Estonia a înregistrat cel mai mare scor dintre țările UE, cu 527 de puncte, în timp ce Cipru a avut cel mai mic, cu 411. Cifra UE de 476 de puncte este o medie neponderată calculată pe baza scorurilor medii ale celor 27 de state membre ale UE și nu este o medie oficială OCDE la nivelul UE.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "extraInfo_NL": "Atenție: unul sau mai multe standarde de eșantionare PISA nu au fost îndeplinite; interpretați estimarea cu atenție.",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
