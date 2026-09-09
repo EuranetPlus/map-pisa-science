@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh maith agus a fheidhmíonn daltaí Eorpacha san eolaíocht?",
+  "subtitle": "Tá an Eastóin i gceannas ar an AE le 527 pointe i PISA 2025. Ar fud 27 tír an AE, is é thart ar 476 pointe an meánscór neamhualaithe, i gcomparáid le meán OECD de 482.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Déanann PISA tomhas ar cé chomh maith is féidir le daltaí 15 bliana d’aois a gcuid eolais agus scileanna a chur i bhfeidhm ar dhúshláin saoil réadaigh. San eolaíocht, sheas meán OECD ag 482 pointe in 2025, trí phointe níos ísle ná in 2022 agus seacht bpointe faoi bhun a leibhéal in 2015. Bhain an Eastóin an scór is airde amach i measc thíortha an AE le 527 pointe, agus bhí an scór is ísle ag an gCipir ag 411. Is meán neamhualaithe é figiúr an AE de 476 pointe a ríomhtar ó mheánscóir 27 Ballstát an AE agus ní meán oifigiúil OECD AE é.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "extraInfo_NL": "Rabhadh: níor comhlíonadh caighdeán samplála PISA amháin nó níos mó; déan an meastachán a léirmhíniú go cúramach.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
