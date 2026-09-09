@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur bra presterar europeiska elever i naturvetenskap?",
+  "subtitle": "Estland leder EU med 527 poäng i PISA 2025. Bland de 27 EU-länderna ligger det ovägda genomsnittliga resultatet cirka 476 poäng, jämfört med ett OECD-genomsnitt på 482.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "PISA mäter hur väl 15-åriga elever kan tillämpa sina kunskaper och färdigheter på verkliga utmaningar. Inom naturvetenskap låg OECD-genomsnittet på 482 poäng år 2025, tre poäng lägre än år 2022 och sju poäng under 2015 års nivå. Estland hade den högsta poängen bland EU-länderna med 527 poäng, medan Cypern hade den lägsta med 411. EU-siffran på 476 poäng är ett ovägt medelvärde beräknat från medelpoängen för de 27 EU-medlemsstaterna och är inte ett officiellt OECD-EU-genomsnitt.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_NL": "Varning: en eller flera PISA-urvalsstandarder uppfylldes inte; tolka uppskattningen med försiktighet.",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
