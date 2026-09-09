@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka hyvin eurooppalaiset opiskelijat menestyvät luonnontieteissä?",
+  "subtitle": "Viro johtaa EU:ta 527 pisteellä PISA 2025 -tutkimuksessa. EU:n 27 maan painottamaton keskiarvo on noin 476 pistettä, kun OECD-maiden keskiarvo on 482.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "PISA mittaa sitä, kuinka hyvin 15-vuotiaat oppilaat pystyvät soveltamaan tietojaan ja taitojaan tosielämän haasteisiin. Luonnontieteissä OECD:n keskiarvo oli 482 pistettä vuonna 2025, kolme pistettä vähemmän kuin vuonna 2022 ja seitsemän pistettä vähemmän kuin vuonna 2015. Viro sai EU-maista korkeimman pistemäärän 527 pisteellä, kun taas Kyproksella oli alhaisin pistemäärä 411 pisteellä. EU:n luku 476 pistettä on painottamaton keskiarvo, joka on laskettu 27 EU-jäsenvaltion keskiarvoista, eikä se ole virallinen OECD:n EU-keskiarvo.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "extraInfo_NL": "Varoitus: yksi tai useampi PISA-otantakriteeri ei täyttynyt; tulkitse arviota huolellisesti.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
