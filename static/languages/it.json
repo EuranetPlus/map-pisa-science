@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Come si comportano gli studenti europei nelle materie scientifiche?",
+  "subtitle": "L'Estonia è in testa alla classifica dell'UE con 527 punti nel PISA 2025. Nei 27 paesi dell'UE, il punteggio medio non ponderato si aggira intorno ai 476 punti, rispetto a una media OCSE di 482.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il programma PISA misura la capacità degli studenti quindicenni di applicare le proprie conoscenze e competenze a problemi concreti. In ambito scientifico, la media OCSE si è attestata a 482 punti nel 2025, tre punti in meno rispetto al 2022 e sette punti al di sotto del livello del 2015. L'Estonia ha registrato il punteggio più alto tra i paesi dell'UE con 527 punti, mentre Cipro ha ottenuto il punteggio più basso con 411. Il dato UE di 476 punti è una media non ponderata calcolata sulla base dei punteggi medi dei 27 Stati membri dell'UE e non rappresenta una media ufficiale OCSE per l'UE.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "OCSE (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
+  "extraInfo_NL": "Attenzione: uno o più criteri di campionamento PISA non sono stati rispettati; interpretare la stima con cautela.",
   "legend1": "Nessun dato disponibile",
   "tooltipExtraInfoLabel": "clicca qui"
 }
