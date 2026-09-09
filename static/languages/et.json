@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui hästi Euroopa õpilased loodusteadustes esinevad?",
+  "subtitle": "Eesti on PISA 2025. aasta uuringus 527 punktiga EL-i liider. 27 EL-i riigi kaalumata keskmine tulemus on umbes 476 punkti, võrreldes OECD keskmisega 482 punkti.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "PISA mõõdab, kui hästi 15-aastased õpilased suudavad oma teadmisi ja oskusi reaalsetes väljakutsetes rakendada. Loodusteadustes oli OECD keskmine 2025. aastal 482 punkti, mis on kolm punkti madalam kui 2022. aastal ja seitse punkti madalam kui 2015. aasta tase. Eesti saavutas EL-i riikide seas kõrgeima tulemuse 527 punktiga, samas kui Küprosel oli madalaim tulemus 411 punktiga. EL-i näitaja 476 punkti on kaalumata keskmine, mis on arvutatud 27 EL-i liikmesriigi keskmiste tulemuste põhjal ja ei ole OECD ametlik EL-i keskmine.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "extraInfo_NL": "Ettevaatust: üks või mitu PISA valimistandardit ei olnud täidetud; tõlgendage hinnangut ettevaatlikult.",
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
