@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jak europejscy uczniowie radzą sobie z naukami ścisłymi?",
+  "subtitle": "Estonia jest liderem w UE z wynikiem 527 punktów w badaniu PISA 2025. We wszystkich 27 krajach UE średni wynik nieważony wynosi około 476 punktów, w porównaniu ze średnią OECD wynoszącą 482.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Badanie PISA mierzy, jak dobrze 15-letni uczniowie potrafią wykorzystać swoją wiedzę i umiejętności w realistycznych wyzwaniach. W naukach ścisłych średnia OECD wyniosła 482 punkty w 2025 roku, o trzy punkty niżej niż w 2022 roku i o siedem punktów poniżej poziomu z 2015 roku. Estonia uzyskała najwyższy wynik wśród krajów UE – 527 punktów, a Cypr najniższy – 411. Wynik UE wynoszący 476 punktów to średnia nieważona obliczona na podstawie średnich wyników 27 państw członkowskich UE i nie jest oficjalną średnią OECD dla UE.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "OECD (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "extraInfo_NL": "Uwaga: nie spełniono jednego lub więcej standardów doboru próby PISA; należy ostrożnie interpretować szacunek.",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
