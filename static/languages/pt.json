@@ -1,12 +1,12 @@
 {
-  "title": "Qual o desempenho dos estudantes europeus em ciências?",
-  "subtitle": "A Estônia lidera a UE com 527 pontos no PISA 2025. Nos 27 países da UE, a pontuação média não ponderada é de cerca de 476 pontos, em comparação com a média da OCDE de 482.",
+  "title": "Qual o desempenho dos alunos europeus em ciências?",
+  "subtitle": "Com 527 pontos no teste PISA de Ciências de 2025, a Estônia lidera o ranking da UE, enquanto o Chipre ocupa a última posição com 411 pontos. A média da UE é de cerca de 476 pontos, em comparação com a média da OCDE de 482 pontos.",
   "textNoteDescription": "Observação",
-  "textNote": "O PISA avalia a capacidade dos alunos de 15 anos de aplicar seus conhecimentos e habilidades a desafios da vida real. Em ciências, a média da OCDE foi de 482 pontos em 2025, três pontos a menos que em 2022 e sete pontos abaixo do nível de 2015. A Estônia registrou a maior pontuação entre os países da UE, com 527 pontos, enquanto Chipre teve a menor, com 411. A média da UE, de 476 pontos, é uma média não ponderada calculada a partir das pontuações médias dos 27 Estados-Membros da UE e não é uma média oficial da OCDE para a UE.",
+  "textNote": "O PISA avalia a capacidade de alunos de 15 anos de aplicar seus conhecimentos e habilidades para enfrentar desafios da vida real. Em ciências, a pontuação média da OCDE foi de 482 pontos em 2025, três pontos a menos que em 2022 e sete pontos a menos que em 2015. A média da UE, de 476 pontos, é uma média não ponderada calculada a partir das pontuações médias dos 27 Estados-Membros da UE e não constitui um agregado oficial da OCDE para a UE.",
   "textSourceDescription": "Fonte",
   "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_NL": "Atenção: um ou mais critérios de amostragem do PISA não foram atendidos; interprete a estimativa com cautela.",
   "legend1": "Não há dados disponíveis.",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "extraInfo_NL": "Atenção: um ou mais critérios de amostragem do PISA não foram atendidos; interprete a estimativa com cautela."
 }

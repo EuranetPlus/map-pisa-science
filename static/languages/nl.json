@@ -1,12 +1,12 @@
 {
-  "title": "Hoe goed presteren Europese leerlingen in de natuurwetenschappen?",
-  "subtitle": "Estland voert de EU aan met 527 punten in PISA 2025. Over de 27 EU-landen heen ligt de ongewogen gemiddelde score rond de 476 punten, vergeleken met een gemiddelde van 482 voor de OESO.",
+  "title": "Hoe presteren Europese leerlingen in de natuurwetenschappen?",
+  "subtitle": "Estland behaalde 527 punten in de PISA-test voor wetenschap van 2025 en staat daarmee bovenaan de EU-ranglijst, terwijl Cyprus met 411 punten de laatste plaats inneemt. Het EU-brede gemiddelde ligt rond de 476 punten, vergeleken met een gemiddelde van 482 punten voor de OESO.",
   "textNoteDescription": "Opmerking",
-  "textNote": "PISA meet hoe goed 15-jarige leerlingen hun kennis en vaardigheden kunnen toepassen op uitdagingen uit het dagelijks leven. In de wetenschappen lag het gemiddelde van de OESO in 2025 op 482 punten, drie punten lager dan in 2022 en zeven punten lager dan in 2015. Estland behaalde de hoogste score van alle EU-landen met 527 punten, terwijl Cyprus de laagste score had met 411 punten. Het EU-cijfer van 476 punten is een ongewogen gemiddelde, berekend op basis van de gemiddelde scores van de 27 EU-lidstaten, en is geen officieel OESO-gemiddelde voor de EU.",
+  "textNote": "PISA beoordeelt het vermogen van 15-jarige leerlingen om hun kennis en vaardigheden toe te passen bij het aanpakken van uitdagingen uit het dagelijks leven. In de wetenschappen bedroeg de gemiddelde score van de OESO in 2025 482 punten, drie punten lager dan in 2022 en zeven punten lager dan in 2015. Het EU-gemiddelde van 476 punten is een ongewogen gemiddelde, berekend op basis van de gemiddelde scores van de 27 EU-lidstaten, en vormt geen officieel OESO-totaal voor de EU.",
   "textSourceDescription": "Bron",
   "textSource": "OESO (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_NL": "Let op: aan een of meer PISA-steekproefnormen is niet voldaan; interpreteer de schatting met de nodige voorzichtigheid.",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "extraInfo_NL": "Let op: aan een of meer PISA-steekproefnormen is niet voldaan; interpreteer de schatting met de nodige voorzichtigheid."
 }

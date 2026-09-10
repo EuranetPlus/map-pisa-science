@@ -1,12 +1,12 @@
 {
-  "title": "Koliko su dobri europski učenici u znanosti?",
-  "subtitle": "Estonija predvodi EU s 527 bodova u PISA-i 2025. U 27 zemalja EU-a, neponderirani prosječni rezultat je oko 476 bodova, u usporedbi s prosjekom OECD-a od 482.",
+  "title": "Kakvi su rezultati europskih učenika u znanosti?",
+  "subtitle": "S 527 bodova na PISA testu iz prirodoslovlja za 2025. godinu, Estonija je na vrhu ljestvice EU-a, dok je Cipar posljednji s 411 bodova. Prosjek za cijelu EU iznosi oko 476 bodova, u usporedbi s prosjekom OECD-a od 482 boda.",
   "textNoteDescription": "Bilješka",
-  "textNote": "PISA mjeri koliko dobro 15-godišnji učenici mogu primijeniti svoje znanje i vještine na izazove iz stvarnog života. U znanosti je prosjek OECD-a u 2025. iznosio 482 boda, što je tri boda niže nego u 2022. i sedam bodova ispod razine iz 2015. Estonija je zabilježila najviši rezultat među zemljama EU-a s 527 bodova, dok je Cipar imao najniži s 411. Brojka za EU od 476 bodova je neponderirani prosjek izračunat iz prosječnih rezultata 27 država članica EU-a i nije službeni prosjek OECD-a za EU.",
+  "textNote": "PISA procjenjuje sposobnost 15-godišnjih učenika da primijene svoje znanje i vještine kako bi se suočili sa stvarnim životnim izazovima. U znanosti je prosječni rezultat OECD-a u 2025. bio 482 boda, što je tri boda niže nego u 2022. i sedam bodova niže nego u 2015. Prosjek EU od 476 bodova je neponderirani prosjek izračunat iz prosječnih rezultata 27 država članica EU-a i ne predstavlja službeni agregirani rezultat OECD-a za EU.",
   "textSourceDescription": "Izvor",
   "textSource": "OECD (2026.)",
   "linkDataAccessDescription": "Pristup podacima",
-  "extraInfo_NL": "Oprez: jedan ili više PISA standarda uzorkovanja nisu ispunjeni; procjenu interpretirajte s oprezom.",
   "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "extraInfo_NL": "Oprez: jedan ili više PISA standarda uzorkovanja nisu ispunjeni; procjenu interpretirajte s oprezom."
 }

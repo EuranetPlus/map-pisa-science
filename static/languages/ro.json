@@ -1,12 +1,12 @@
 {
-  "title": "Cât de bine au performanțele elevilor europeni la științe?",
-  "subtitle": "Estonia este lider în UE cu 527 de puncte în PISA 2025. În cele 27 de țări ale UE, scorul mediu neponderat este de aproximativ 476 de puncte, comparativ cu o medie OCDE de 482.",
+  "title": "Cum se descurcă elevii europeni la științe?",
+  "subtitle": "Cu 527 de puncte la testul PISA 2025 la științe, Estonia se află în fruntea clasamentului UE, în timp ce Cipru se află pe ultimul loc, cu 411 puncte. Media la nivelul UE se situează la aproximativ 476 de puncte, comparativ cu o medie OCDE de 482 de puncte.",
   "textNoteDescription": "Nota",
-  "textNote": "PISA măsoară cât de bine își pot aplica elevii de 15 ani cunoștințele și abilitățile la provocări din viața reală. La științe, media OCDE a fost de 482 de puncte în 2025, cu trei puncte mai mică decât în 2022 și cu șapte puncte sub nivelul din 2015. Estonia a înregistrat cel mai mare scor dintre țările UE, cu 527 de puncte, în timp ce Cipru a avut cel mai mic, cu 411. Cifra UE de 476 de puncte este o medie neponderată calculată pe baza scorurilor medii ale celor 27 de state membre ale UE și nu este o medie oficială OCDE la nivelul UE.",
+  "textNote": "PISA evaluează capacitatea elevilor de 15 ani de a-și aplica cunoștințele și abilitățile pentru a aborda provocările din viața reală. La științe, scorul mediu OCDE a fost de 482 de puncte în 2025, cu trei puncte mai mic decât în 2022 și cu șapte puncte mai mic decât în 2015. Media UE de 476 de puncte este o medie neponderată calculată pe baza scorurilor medii ale celor 27 de state membre ale UE și nu constituie un agregat oficial OCDE pentru UE.",
   "textSourceDescription": "Sursă",
   "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_NL": "Atenție: unul sau mai multe standarde de eșantionare PISA nu au fost îndeplinite; interpretați estimarea cu atenție.",
   "legend1": "Nu sunt disponibile date",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "extraInfo_NL": "Atenție: unul sau mai multe standarde de eșantionare PISA nu au fost îndeplinite; interpretați estimarea cu atenție."
 }

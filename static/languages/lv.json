@@ -1,12 +1,12 @@
 {
-  "title": "Cik labi Eiropas skolēni gūst panākumus dabaszinībās?",
-  "subtitle": "Igaunija PISA 2025. gada apsekojumā ar 527 punktiem ir ES līdere. Visās 27 ES valstīs nesvērtais vidējais rādītājs ir aptuveni 476 punkti, salīdzinot ar ESAO vidējo rādītāju 482.",
+  "title": "Kādi ir Eiropas skolēnu rezultāti dabaszinībās?",
+  "subtitle": "Ar 527 punktiem 2025. gada PISA testā dabaszinātnēs Igaunija ieņem pirmo vietu ES rangā, savukārt Kipra ar 411 punktiem ir pēdējā. ES vidējais rādītājs ir aptuveni 476 punkti, salīdzinot ar ESAO vidējo rādītāju 482 punkti.",
   "textNoteDescription": "Piezīme",
-  "textNote": "PISA mēra, cik labi 15 gadus veci skolēni var pielietot savas zināšanas un prasmes reālās dzīves izaicinājumos. Dabaszinātnēs OECD vidējais rādītājs 2025. gadā bija 482 punkti, kas ir par trim punktiem zemāk nekā 2022. gadā un par septiņiem punktiem zemāk nekā 2015. gada līmenī. Igaunijā bija augstākais rezultāts starp ES valstīm ar 527 punktiem, savukārt Kiprā bija zemākais – 411 punkti. ES rādītājs 476 punkti ir nesvērts vidējais rādītājs, kas aprēķināts no 27 ES dalībvalstu vidējiem rezultātiem, un tas nav oficiāls OECD ES vidējais rādītājs.",
+  "textNote": "PISA novērtē 15 gadus vecu skolēnu spēju pielietot savas zināšanas un prasmes, lai risinātu reālās dzīves izaicinājumus. Dabaszinātnēs OECD vidējais rādītājs 2025. gadā bija 482 punkti, kas bija par trim punktiem zemāks nekā 2022. gadā un par septiņiem punktiem zemāks nekā 2015. gadā. ES vidējais rādītājs 476 punkti ir nesvērts vidējais rādītājs, kas aprēķināts no 27 ES dalībvalstu vidējiem rādītājiem, un tas nav oficiāls OECD apkopotais rādītājs ES.",
   "textSourceDescription": "Avots",
   "textSource": "ESAO (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_NL": "Uzmanību: viens vai vairāki PISA izlases standarti netika izpildīti; interpretējiet aplēsi uzmanīgi.",
   "legend1": "Dati nav pieejami",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "extraInfo_NL": "Uzmanību: viens vai vairāki PISA izlases standarti netika izpildīti; interpretējiet aplēsi uzmanīgi."
 }

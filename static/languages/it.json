@@ -1,12 +1,12 @@
 {
   "title": "Come si comportano gli studenti europei nelle materie scientifiche?",
-  "subtitle": "L'Estonia è in testa alla classifica dell'UE con 527 punti nel PISA 2025. Nei 27 paesi dell'UE, il punteggio medio non ponderato si aggira intorno ai 476 punti, rispetto a una media OCSE di 482.",
+  "subtitle": "Con 527 punti nel test PISA 2025 di scienze, l'Estonia si posiziona al primo posto nella classifica UE, mentre Cipro è ultima con 411 punti. La media europea si attesta intorno ai 476 punti, contro una media OCSE di 482 punti.",
   "textNoteDescription": "Nota",
-  "textNote": "Il programma PISA misura la capacità degli studenti quindicenni di applicare le proprie conoscenze e competenze a problemi concreti. In ambito scientifico, la media OCSE si è attestata a 482 punti nel 2025, tre punti in meno rispetto al 2022 e sette punti al di sotto del livello del 2015. L'Estonia ha registrato il punteggio più alto tra i paesi dell'UE con 527 punti, mentre Cipro ha ottenuto il punteggio più basso con 411. Il dato UE di 476 punti è una media non ponderata calcolata sulla base dei punteggi medi dei 27 Stati membri dell'UE e non rappresenta una media ufficiale OCSE per l'UE.",
+  "textNote": "Il programma PISA valuta la capacità degli studenti quindicenni di applicare le proprie conoscenze e competenze per affrontare sfide concrete. In ambito scientifico, il punteggio medio OCSE nel 2025 è stato di 482 punti, tre punti in meno rispetto al 2022 e sette punti in meno rispetto al 2015. La media UE di 476 punti è una media non ponderata calcolata sulla base dei punteggi medi dei 27 Stati membri dell'UE e non costituisce un punteggio aggregato ufficiale dell'OCSE per l'UE.",
   "textSourceDescription": "Fonte",
   "textSource": "OCSE (2026)",
   "linkDataAccessDescription": "Accedere ai dati",
-  "extraInfo_NL": "Attenzione: uno o più criteri di campionamento PISA non sono stati rispettati; interpretare la stima con cautela.",
   "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "extraInfo_NL": "Attenzione: uno o più criteri di campionamento PISA non sono stati rispettati; interpretare la stima con cautela."
 }

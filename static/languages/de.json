@@ -1,12 +1,12 @@
 {
-  "title": "Wie gut schneiden europäische Schüler in den Naturwissenschaften ab?",
-  "subtitle": "Estland führt die EU mit 527 Punkten im PISA 2025 an. In den 27 EU-Ländern liegt der ungewichtete Durchschnittswert bei rund 476 Punkten, verglichen mit einem OECD-Durchschnitt von 482 Punkten.",
+  "title": "Wie schneiden europäische Schüler in den Naturwissenschaften ab?",
+  "subtitle": "Estland führt mit 527 Punkten im PISA-Test 2025 im Bereich Naturwissenschaften die EU-Rangliste an, während Zypern mit 411 Punkten den letzten Platz belegt. Der EU-weite Durchschnitt liegt bei rund 476 Punkten, verglichen mit einem OECD-Durchschnitt von 482 Punkten.",
   "textNoteDescription": "Notiz",
-  "textNote": "PISA misst, wie gut 15-jährige Schülerinnen und Schüler ihr Wissen und ihre Fähigkeiten auf reale Herausforderungen anwenden können. Im Bereich Naturwissenschaften lag der OECD-Durchschnitt 2025 bei 482 Punkten, drei Punkte niedriger als 2022 und sieben Punkte unter dem Niveau von 2015. Estland erzielte mit 527 Punkten die höchste Punktzahl aller EU-Länder, Zypern mit 411 Punkten die niedrigste. Der EU-Durchschnitt von 476 Punkten ist ein ungewichteter Wert, der aus den Mittelwerten der 27 EU-Mitgliedstaaten berechnet wurde und kein offizieller OECD-EU-Durchschnitt ist.",
+  "textNote": "PISA bewertet die Fähigkeit von 15-jährigen Schülerinnen und Schülern, ihr Wissen und ihre Fertigkeiten anzuwenden, um reale Herausforderungen zu meistern. Im Fach Naturwissenschaften lag der OECD-Durchschnittswert 2025 bei 482 Punkten, drei Punkte niedriger als 2022 und sieben Punkte niedriger als 2015. Der EU-Durchschnitt von 476 Punkten ist ein ungewichteter Durchschnitt, der aus den Durchschnittswerten der 27 EU-Mitgliedstaaten berechnet wurde und keinen offiziellen OECD-Gesamtwert für die EU darstellt.",
   "textSourceDescription": "Quelle",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
-  "extraInfo_NL": "Achtung: Mindestens ein PISA-Stichprobenstandard wurde nicht erfüllt; interpretieren Sie die Schätzung daher mit Vorsicht.",
   "legend1": "Keine Daten verfügbar",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "extraInfo_NL": "Achtung: Mindestens ein PISA-Stichprobenstandard wurde nicht erfüllt; interpretieren Sie die Schätzung daher mit Vorsicht."
 }

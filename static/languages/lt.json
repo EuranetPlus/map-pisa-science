@@ -1,12 +1,12 @@
 {
-  "title": "Kaip gerai Europos mokiniai pasiekia mokslo rezultatų?",
-  "subtitle": "Estija pirmauja ES su 527 taškais PISA 2025 tyrime. Visose 27 ES šalyse nesvertinis vidurkis yra apie 476 taškus, palyginti su EBPO vidurkiu – 482 taškai.",
+  "title": "Kaip Europos mokiniai pasiekia mokslo rezultatų?",
+  "subtitle": "Surinkusi 527 taškus 2025 m. PISA gamtos mokslų teste, Estija pirmauja ES reitinge, o Kipras – paskutinis su 411 taškų. Visos ES vidurkis siekia apie 476 taškus, palyginti su EBPO vidurkiu – 482 taškais.",
   "textNoteDescription": "Pastaba",
-  "textNote": "PISA testas matuoja, kaip gerai 15 metų mokiniai gali pritaikyti savo žinias ir įgūdžius spręsdami realaus gyvenimo iššūkius. Gamtos mokslų srityje EBPO vidurkis 2025 m. siekė 482 taškus – trimis punktais mažiau nei 2022 m. ir septyniais punktais mažiau nei 2015 m. Estija užfiksavo aukščiausią rezultatą tarp ES šalių – 527 taškus, o Kipras – mažiausią – 411. ES rodiklis – 476 taškai – yra nesvertinis vidurkis, apskaičiuotas pagal 27 ES valstybių narių vidurkius ir nėra oficialus EBPO ES vidurkis.",
+  "textNote": "PISA testas vertina 15 metų mokinių gebėjimą pritaikyti savo žinias ir įgūdžius sprendžiant realaus gyvenimo problemas. Gamtos mokslų srityje 2025 m. vidutinis EBPO balas buvo 482 taškai, tai yra trimis taškais mažiau nei 2022 m. ir septyniais taškais mažiau nei 2015 m. ES vidurkis – 476 taškai – yra nesvertinis vidurkis, apskaičiuotas pagal 27 ES valstybių narių vidutinius balus ir nėra oficialus EBPO suvestinis rodiklis ES.",
   "textSourceDescription": "Šaltinis",
   "textSource": "EBPO (2026 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
-  "extraInfo_NL": "Dėmesio: nebuvo įvykdytas vienas ar keli PISA imties standartai; įvertį interpretuokite atsargiai.",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "extraInfo_NL": "Dėmesio: nebuvo įvykdytas vienas ar keli PISA imties standartai; įvertį interpretuokite atsargiai."
 }

@@ -1,12 +1,12 @@
 {
-  "title": "How well do European students perform in science?",
-  "subtitle": "Estonia leads the EU with 527 points in PISA 2025. Across the 27 EU countries, the unweighted average score is around 476 points, compared with an OECD average of 482.",
+  "title": "How do European pupils perform in science?",
+  "subtitle": "With 527 points in the 2025 PISA test in science, Estonia tops the EU rankings, while Cyprus is last with 411 points. The EU-wide average stands at around 476 points, compared to an OECD average of 482 points.",
   "textNoteDescription": "Note",
-  "textNote": "PISA measures how well 15-year-old students can apply their knowledge and skills to real-life challenges. In science, the OECD average stood at 482 points in 2025, three points lower than in 2022 and seven points below its 2015 level. Estonia recorded the highest score among EU countries with 527 points, while Cyprus had the lowest at 411. The EU figure of 476 points is an unweighted average calculated from the mean scores of the 27 EU Member States and is not an official OECD EU average.",
+  "textNote": "PISA assesses 15-year-old pupils' ability to apply their knowledge and skills to tackle real-life challenges. In science, the OECD average score was 482 points in 2025, which was three points lower than in 2022 and seven points lower than in 2015. The EU average of 476 points is an unweighted average calculated from the average scores of the 27 EU member states, and does not constitute an official OECD aggregate for the EU.",
   "textSourceDescription": "Source",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_NL": "Caution: one or more PISA sampling standards were not met; interpret the estimate with care.",
   "legend1": "No data available",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "extraInfo_NL": "Caution: one or more PISA sampling standards were not met; interpret the estimate with care."
 }

@@ -1,12 +1,12 @@
 {
-  "title": "Aké dobré výsledky dosahujú európski študenti vo vede?",
-  "subtitle": "Estónsko vedie v EÚ s 527 bodmi v teste PISA 2025. V 27 krajinách EÚ je nevážený priemer skóre okolo 476 bodov v porovnaní s priemerom OECD, ktorý je 482.",
+  "title": "Aké sú výsledky európskych žiakov vo vede?",
+  "subtitle": "Estónsko je s 527 bodmi v teste PISA z prírodných vied v roku 2025 na čele rebríčka EÚ, zatiaľ čo Cyprus je posledný so 411 bodmi. Priemer v celej EÚ je okolo 476 bodov v porovnaní s priemerom OECD, ktorý je 482 bodov.",
   "textNoteDescription": "Poznámka",
-  "textNote": "PISA meria, ako dobre dokážu 15-roční študenti uplatniť svoje vedomosti a zručnosti v reálnych životných výzvach. V oblasti prírodných vied bol priemer OECD v roku 2025 na úrovni 482 bodov, čo je o tri body menej ako v roku 2022 a o sedem bodov menej ako v roku 2015. Estónsko zaznamenalo najvyššie skóre spomedzi krajín EÚ s 527 bodmi, zatiaľ čo Cyprus mal najnižšie skóre so 411 bodmi. Údaj EÚ 476 bodov je nevážený priemer vypočítaný z priemerných skóre 27 členských štátov EÚ a nie je oficiálnym priemerom OECD za EÚ.",
+  "textNote": "PISA hodnotí schopnosť 15-ročných žiakov aplikovať svoje vedomosti a zručnosti na riešenie reálnych životných výziev. V oblasti prírodných vied bolo priemerné skóre OECD v roku 2025 482 bodov, čo bolo o tri body menej ako v roku 2022 a o sedem bodov menej ako v roku 2015. Priemer EÚ 476 bodov je nevážený priemer vypočítaný z priemerných skóre 27 členských štátov EÚ a nepredstavuje oficiálny súhrn OECD pre EÚ.",
   "textSourceDescription": "Zdroj",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_NL": "Pozor: nebol splnený jeden alebo viacero štandardov PISA; odhad interpretujte opatrne.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "extraInfo_NL": "Pozor: nebol splnený jeden alebo viacero štandardov PISA; odhad interpretujte opatrne."
 }

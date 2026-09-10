@@ -1,12 +1,12 @@
 {
-  "title": "¿Qué resultados obtienen los estudiantes europeos en ciencias?",
-  "subtitle": "Estonia lidera la UE con 527 puntos en PISA 2025. En los 27 países de la UE, la puntuación media sin ponderar ronda los 476 puntos, frente a una media de la OCDE de 482.",
+  "title": "¿Qué resultados obtienen los alumnos europeos en ciencias?",
+  "subtitle": "Con 527 puntos en la prueba PISA 2025 de ciencias, Estonia encabeza la clasificación de la UE, mientras que Chipre ocupa el último lugar con 411 puntos. El promedio de la UE se sitúa en torno a los 476 puntos, en comparación con un promedio de la OCDE de 482 puntos.",
   "textNoteDescription": "Nota",
-  "textNote": "PISA evalúa la capacidad de los estudiantes de 15 años para aplicar sus conocimientos y habilidades a desafíos de la vida real. En ciencias, el promedio de la OCDE se situó en 482 puntos en 2025, tres puntos menos que en 2022 y siete puntos por debajo de su nivel de 2015. Estonia obtuvo la puntuación más alta entre los países de la UE con 527 puntos, mientras que Chipre obtuvo la más baja con 411. La cifra de la UE de 476 puntos es un promedio no ponderado calculado a partir de las puntuaciones medias de los 27 Estados miembros de la UE y no es un promedio oficial de la OCDE para la UE.",
+  "textNote": "PISA evalúa la capacidad de los alumnos de 15 años para aplicar sus conocimientos y habilidades a la resolución de problemas de la vida real. En ciencias, la puntuación media de la OCDE fue de 482 puntos en 2025, tres puntos menos que en 2022 y siete puntos menos que en 2015. La media de la UE, de 476 puntos, es una media no ponderada calculada a partir de las puntuaciones medias de los 27 Estados miembros de la UE y no constituye un agregado oficial de la OCDE para la UE.",
   "textSourceDescription": "Fuente",
   "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_NL": "Precaución: no se cumplió con uno o más estándares de muestreo de PISA; interprete la estimación con precaución.",
   "legend1": "No hay datos disponibles",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "extraInfo_NL": "Precaución: no se cumplió con uno o más estándares de muestreo de PISA; interprete la estimación con precaución."
 }

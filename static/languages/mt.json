@@ -1,12 +1,12 @@
 {
-  "title": "Kemm imorru tajjeb l-istudenti Ewropej fix-xjenza?",
-  "subtitle": "L-Estonja tinsab fuq quddiem nett fl-UE b’527 punt fil-PISA 2025. Madwar is-27 pajjiż tal-UE, il-punteġġ medju mhux ponderat huwa ta’ madwar 476 punt, meta mqabbel ma’ medja tal-OECD ta’ 482.",
+  "title": "Kif imorru l-istudenti Ewropej fix-xjenza?",
+  "subtitle": "B'527 punt fit-test PISA tal-2025 fix-xjenza, l-Estonja tinsab fl-ewwel post fil-klassifika tal-UE, filwaqt li Ċipru tinsab fl-aħħar post b'411-il punt. Il-medja madwar l-UE hija ta' madwar 476 punt, meta mqabbla ma' medja tal-OECD ta' 482 punt.",
   "textNoteDescription": "Nota",
-  "textNote": "Il-PISA tkejjel kemm studenti ta’ 15-il sena jistgħu japplikaw l-għarfien u l-ħiliet tagħhom għal sfidi tal-ħajja reali. Fix-xjenza, il-medja tal-OECD kienet ta’ 482 punt fl-2025, tliet punti inqas milli fl-2022 u seba’ punti inqas mil-livell tal-2015. L-Estonja rreġistrat l-ogħla punteġġ fost il-pajjiżi tal-UE b’527 punt, filwaqt li Ċipru kellha l-inqas b’411. Iċ-ċifra tal-UE ta’ 476 punt hija medja mhux ponderata kkalkulata mill-punteġġi medji tas-27 Stat Membru tal-UE u mhijiex medja uffiċjali tal-OECD tal-UE.",
+  "textNote": "Il-PISA tivvaluta l-abbiltà tal-istudenti ta’ 15-il sena li japplikaw l-għarfien u l-ħiliet tagħhom biex jindirizzaw sfidi tal-ħajja reali. Fix-xjenza, il-punteġġ medju tal-OECD kien ta’ 482 punt fl-2025, li kien tliet punti inqas milli fl-2022 u seba’ punti inqas milli fl-2015. Il-medja tal-UE ta’ 476 punt hija medja mhux ponderata kkalkulata mill-punteġġi medji tas-27 stat membru tal-UE, u ma tikkostitwixxix aggregat uffiċjali tal-OECD għall-UE.",
   "textSourceDescription": "Sors",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Aċċessa d-dejta",
-  "extraInfo_NL": "Attenzjoni: standard wieħed jew aktar tal-kampjunar tal-PISA ma ntlaħqux; interpreta l-istima b'attenzjoni.",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
+  "extraInfo_NL": "Attenzjoni: standard wieħed jew aktar tal-kampjunar tal-PISA ma ntlaħqux; interpreta l-istima b'attenzjoni."
 }

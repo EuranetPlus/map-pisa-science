@@ -1,12 +1,12 @@
 {
-  "title": "Cé chomh maith agus a fheidhmíonn daltaí Eorpacha san eolaíocht?",
-  "subtitle": "Tá an Eastóin i gceannas ar an AE le 527 pointe i PISA 2025. Ar fud 27 tír an AE, is é thart ar 476 pointe an meánscór neamhualaithe, i gcomparáid le meán OECD de 482.",
+  "title": "Conas a fheidhmíonn daltaí Eorpacha san eolaíocht?",
+  "subtitle": "Le 527 pointe i dtástáil PISA 2025 san eolaíocht, tá an Eastóin ar bharr rangú an AE, agus tá an Chipir sa deireadh le 411 pointe. Seasann an meán ar fud an AE ag thart ar 476 pointe, i gcomparáid le meán OECD de 482 pointe.",
   "textNoteDescription": "Nóta",
-  "textNote": "Déanann PISA tomhas ar cé chomh maith is féidir le daltaí 15 bliana d’aois a gcuid eolais agus scileanna a chur i bhfeidhm ar dhúshláin saoil réadaigh. San eolaíocht, sheas meán OECD ag 482 pointe in 2025, trí phointe níos ísle ná in 2022 agus seacht bpointe faoi bhun a leibhéal in 2015. Bhain an Eastóin an scór is airde amach i measc thíortha an AE le 527 pointe, agus bhí an scór is ísle ag an gCipir ag 411. Is meán neamhualaithe é figiúr an AE de 476 pointe a ríomhtar ó mheánscóir 27 Ballstát an AE agus ní meán oifigiúil OECD AE é.",
+  "textNote": "Déanann PISA measúnú ar chumas daltaí 15 bliana d'aois a gcuid eolais agus scileanna a chur i bhfeidhm chun dul i ngleic le dúshláin sa saol fíor. San eolaíocht, ba é 482 pointe meánscór OECD in 2025, a bhí trí phointe níos ísle ná in 2022 agus seacht bpointe níos ísle ná in 2015. Is meán neamhualaithe é meán an AE de 476 pointe a ríomhtar ó mheánscóir 27 ballstát an AE, agus ní comhiomlán oifigiúil OECD don AE é.",
   "textSourceDescription": "Foinse",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
-  "extraInfo_NL": "Rabhadh: níor comhlíonadh caighdeán samplála PISA amháin nó níos mó; déan an meastachán a léirmhíniú go cúramach.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "extraInfo_NL": "Rabhadh: níor comhlíonadh caighdeán samplála PISA amháin nó níos mó; déan an meastachán a léirmhíniú go cúramach."
 }

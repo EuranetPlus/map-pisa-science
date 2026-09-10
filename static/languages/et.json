@@ -1,12 +1,12 @@
 {
-  "title": "Kui hästi Euroopa õpilased loodusteadustes esinevad?",
-  "subtitle": "Eesti on PISA 2025. aasta uuringus 527 punktiga EL-i liider. 27 EL-i riigi kaalumata keskmine tulemus on umbes 476 punkti, võrreldes OECD keskmisega 482 punkti.",
+  "title": "Kuidas Euroopa õpilased loodusteadustes hakkama saavad?",
+  "subtitle": "2025. aasta PISA testi loodusteadustes 527 punktiga on Eesti EL-i edetabeli tipus, Küpros aga 411 punktiga viimane. EL-i keskmine on umbes 476 punkti, võrreldes OECD keskmisega 482 punkti.",
   "textNoteDescription": "Märkus",
-  "textNote": "PISA mõõdab, kui hästi 15-aastased õpilased suudavad oma teadmisi ja oskusi reaalsetes väljakutsetes rakendada. Loodusteadustes oli OECD keskmine 2025. aastal 482 punkti, mis on kolm punkti madalam kui 2022. aastal ja seitse punkti madalam kui 2015. aasta tase. Eesti saavutas EL-i riikide seas kõrgeima tulemuse 527 punktiga, samas kui Küprosel oli madalaim tulemus 411 punktiga. EL-i näitaja 476 punkti on kaalumata keskmine, mis on arvutatud 27 EL-i liikmesriigi keskmiste tulemuste põhjal ja ei ole OECD ametlik EL-i keskmine.",
+  "textNote": "PISA hindab 15-aastaste õpilaste võimet rakendada oma teadmisi ja oskusi reaalse elu väljakutsetega toimetulekuks. Loodusteadustes oli OECD keskmine tulemus 2025. aastal 482 punkti, mis oli kolm punkti madalam kui 2022. aastal ja seitse punkti madalam kui 2015. aastal. ELi keskmine 476 punkti on kaalumata keskmine, mis on arvutatud 27 ELi liikmesriigi keskmiste tulemuste põhjal ja ei ole OECD ametlik ELi koondnäitaja.",
   "textSourceDescription": "Allikas",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_NL": "Ettevaatust: üks või mitu PISA valimistandardit ei olnud täidetud; tõlgendage hinnangut ettevaatlikult.",
   "legend1": "Andmed pole saadaval",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "extraInfo_NL": "Ettevaatust: üks või mitu PISA valimistandardit ei olnud täidetud; tõlgendage hinnangut ettevaatlikult."
 }

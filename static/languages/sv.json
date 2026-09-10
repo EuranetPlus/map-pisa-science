@@ -1,12 +1,12 @@
 {
-  "title": "Hur bra presterar europeiska elever i naturvetenskap?",
-  "subtitle": "Estland leder EU med 527 poäng i PISA 2025. Bland de 27 EU-länderna ligger det ovägda genomsnittliga resultatet cirka 476 poäng, jämfört med ett OECD-genomsnitt på 482.",
+  "title": "Hur presterar europeiska elever i naturvetenskap?",
+  "subtitle": "Med 527 poäng i PISA-testet i naturvetenskap 2025 toppar Estland EU-rankingen, medan Cypern ligger sist med 411 poäng. Genomsnittet för EU ligger på cirka 476 poäng, jämfört med OECD-genomsnittet på 482 poäng.",
   "textNoteDescription": "Notera",
-  "textNote": "PISA mäter hur väl 15-åriga elever kan tillämpa sina kunskaper och färdigheter på verkliga utmaningar. Inom naturvetenskap låg OECD-genomsnittet på 482 poäng år 2025, tre poäng lägre än år 2022 och sju poäng under 2015 års nivå. Estland hade den högsta poängen bland EU-länderna med 527 poäng, medan Cypern hade den lägsta med 411. EU-siffran på 476 poäng är ett ovägt medelvärde beräknat från medelpoängen för de 27 EU-medlemsstaterna och är inte ett officiellt OECD-EU-genomsnitt.",
+  "textNote": "PISA bedömer 15-åriga elevers förmåga att tillämpa sina kunskaper och färdigheter för att ta itu med verkliga utmaningar. Inom naturvetenskap var OECD:s genomsnittliga poäng 482 poäng år 2025, vilket var tre poäng lägre än år 2022 och sju poäng lägre än år 2015. EU-genomsnittet på 476 poäng är ett ovägt genomsnitt beräknat från genomsnittspoängen för de 27 EU-länderna och utgör inte ett officiellt OECD-aggregat för EU.",
   "textSourceDescription": "Källa",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Åtkomst till data",
-  "extraInfo_NL": "Varning: en eller flera PISA-urvalsstandarder uppfylldes inte; tolka uppskattningen med försiktighet.",
   "legend1": "Inga data tillgängliga",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "tooltipExtraInfoLabel": "Klicka här",
+  "extraInfo_NL": "Varning: en eller flera PISA-urvalsstandarder uppfylldes inte; tolka uppskattningen med försiktighet."
 }

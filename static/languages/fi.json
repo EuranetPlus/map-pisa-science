@@ -1,12 +1,12 @@
 {
-  "title": "Kuinka hyvin eurooppalaiset opiskelijat menestyvät luonnontieteissä?",
-  "subtitle": "Viro johtaa EU:ta 527 pisteellä PISA 2025 -tutkimuksessa. EU:n 27 maan painottamaton keskiarvo on noin 476 pistettä, kun OECD-maiden keskiarvo on 482.",
+  "title": "Miten eurooppalaiset oppilaat pärjäävät luonnontieteissä?",
+  "subtitle": "Viro on EU-rankingin kärjessä vuoden 2025 PISA-tieteiden testissä saaduilla 527 pisteellä, kun taas Kypros on viimeisenä 411 pisteellä. EU:n laajuinen keskiarvo on noin 476 pistettä, kun OECD-maiden keskiarvo on 482 pistettä.",
   "textNoteDescription": "Huomautus",
-  "textNote": "PISA mittaa sitä, kuinka hyvin 15-vuotiaat oppilaat pystyvät soveltamaan tietojaan ja taitojaan tosielämän haasteisiin. Luonnontieteissä OECD:n keskiarvo oli 482 pistettä vuonna 2025, kolme pistettä vähemmän kuin vuonna 2022 ja seitsemän pistettä vähemmän kuin vuonna 2015. Viro sai EU-maista korkeimman pistemäärän 527 pisteellä, kun taas Kyproksella oli alhaisin pistemäärä 411 pisteellä. EU:n luku 476 pistettä on painottamaton keskiarvo, joka on laskettu 27 EU-jäsenvaltion keskiarvoista, eikä se ole virallinen OECD:n EU-keskiarvo.",
+  "textNote": "PISA-tutkimuksessa arvioidaan 15-vuotiaiden oppilaiden kykyä soveltaa tietojaan ja taitojaan tosielämän haasteisiin. Luonnontieteissä OECD:n keskiarvo oli 482 pistettä vuonna 2025, mikä oli kolme pistettä vähemmän kuin vuonna 2022 ja seitsemän pistettä vähemmän kuin vuonna 2015. EU:n keskiarvo 476 pistettä on painottamaton keskiarvo, joka on laskettu EU:n 27 jäsenvaltion keskiarvoista, eikä se muodosta virallista OECD:n aggregaattia EU:lle.",
   "textSourceDescription": "Lähde",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_NL": "Varoitus: yksi tai useampi PISA-otantakriteeri ei täyttynyt; tulkitse arviota huolellisesti.",
   "legend1": "Ei tietoja saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "extraInfo_NL": "Varoitus: yksi tai useampi PISA-otantakriteeri ei täyttynyt; tulkitse arviota huolellisesti."
 }

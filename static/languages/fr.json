@@ -1,12 +1,12 @@
 {
-  "title": "Quel est le niveau de performance des élèves européens en sciences ?",
-  "subtitle": "L'Estonie est en tête de l'UE avec 527 points au PISA 2025. Dans les 27 pays de l'UE, le score moyen non pondéré est d'environ 476 points, contre une moyenne de 482 pour l'OCDE.",
+  "title": "Comment les élèves européens se comportent-ils en sciences ?",
+  "subtitle": "Avec 527 points au test PISA 2025 en sciences, l'Estonie arrive en tête du classement de l'UE, tandis que Chypre ferme la marche avec 411 points. La moyenne de l'UE se situe autour de 476 points, contre 482 points pour la moyenne de l'OCDE.",
   "textNoteDescription": "Note",
-  "textNote": "Le programme PISA évalue la capacité des élèves de 15 ans à appliquer leurs connaissances et leurs compétences à des situations concrètes. En sciences, la moyenne de l'OCDE s'établissait à 482 points en 2025, soit trois points de moins qu'en 2022 et sept points de moins qu'en 2015. L'Estonie a enregistré le meilleur score parmi les pays de l'UE avec 527 points, tandis que Chypre a obtenu le plus faible avec 411 points. Le score de l'UE, qui est de 476 points, est une moyenne non pondérée calculée à partir des scores moyens des 27 États membres et ne constitue pas une moyenne officielle de l'OCDE pour l'UE.",
+  "textNote": "Le programme PISA évalue la capacité des élèves de 15 ans à appliquer leurs connaissances et leurs compétences pour relever des défis concrets. En sciences, le score moyen de l'OCDE était de 482 points en 2025, soit trois points de moins qu'en 2022 et sept points de moins qu'en 2015. La moyenne de l'UE, qui s'élève à 476 points, est une moyenne non pondérée calculée à partir des scores moyens des 27 États membres et ne constitue pas un score agrégé officiel de l'OCDE pour l'UE.",
   "textSourceDescription": "Source",
   "textSource": "OCDE (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_NL": "Attention : une ou plusieurs normes d’échantillonnage PISA n’ont pas été respectées ; interprétez l’estimation avec prudence.",
   "legend1": "Aucune donnée disponible",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "extraInfo_NL": "Attention : une ou plusieurs normes d’échantillonnage PISA n’ont pas été respectées ; interprétez l’estimation avec prudence."
 }

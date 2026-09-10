@@ -1,12 +1,12 @@
 {
-  "title": "Hvor godt klarer europæiske studerende sig i naturvidenskab?",
-  "subtitle": "Estland fører EU med 527 point i PISA 2025. På tværs af de 27 EU-lande er den uvægtede gennemsnitsscore omkring 476 point, sammenlignet med et OECD-gennemsnit på 482.",
+  "title": "Hvordan klarer europæiske elever sig i naturvidenskab?",
+  "subtitle": "Med 527 point i PISA-testen i naturvidenskab i 2025 topper Estland EU's rangliste, mens Cypern ligger sidst med 411 point. EU-gennemsnittet ligger på omkring 476 point sammenlignet med et OECD-gennemsnit på 482 point.",
   "textNoteDescription": "Note",
-  "textNote": "PISA måler, hvor godt 15-årige elever kan anvende deres viden og færdigheder på virkelige udfordringer. Inden for naturvidenskab lå OECD-gennemsnittet på 482 point i 2025, tre point lavere end i 2022 og syv point under niveauet i 2015. Estland opnåede den højeste score blandt EU-landene med 527 point, mens Cypern havde den laveste med 411. EU-tallet på 476 point er et uvægtet gennemsnit beregnet ud fra gennemsnitsscorerne for de 27 EU-medlemsstater og er ikke et officielt OECD EU-gennemsnit.",
+  "textNote": "PISA vurderer 15-årige elevers evne til at anvende deres viden og færdigheder til at tackle virkelige udfordringer. Inden for naturvidenskab var OECD's gennemsnitlige score 482 point i 2025, hvilket var tre point lavere end i 2022 og syv point lavere end i 2015. EU-gennemsnittet på 476 point er et uvægtet gennemsnit beregnet ud fra gennemsnitsscorerne for de 27 EU-medlemsstater og udgør ikke et officielt OECD-aggregat for EU.",
   "textSourceDescription": "Kilde",
   "textSource": "OECD (2026)",
   "linkDataAccessDescription": "Få adgang til dataene",
-  "extraInfo_NL": "Advarsel: En eller flere PISA-stikprøvestandarder blev ikke opfyldt; fortolk estimatet med forsigtighed.",
   "legend1": "Ingen data tilgængelige",
-  "tooltipExtraInfoLabel": "Klik her"
+  "tooltipExtraInfoLabel": "Klik her",
+  "extraInfo_NL": "Advarsel: En eller flere PISA-stikprøvestandarder blev ikke opfyldt; fortolk estimatet med forsigtighed."
 }
